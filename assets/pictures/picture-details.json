@@ -600,7 +600,7 @@
             "status": "Available/Sold",
             "price": 1000.0,
             "image_active": true,
-            "category": { "level1": "FBee Eater" }
+            "category": { "level1": "Bee Eater" }
           },
           {
             "filename": "3.webp",
