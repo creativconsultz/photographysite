@@ -1,0 +1,1248 @@
+{
+  "creator_details": {
+    "name": "Chandan Kumar Sarkar",
+    "profile_path": ".",
+    "facebook_link": "URL",
+    "instagram_link": "URL",
+    "youtube_link": "URL",
+    "twitter_link": "URL",
+    "linkedin_link": "URL"
+  },
+  "categories": {
+    "total_categories": 3,
+    "total_pictures": 7,
+    "data": [
+      {
+        "category_name": "Kingfisher",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Friendly Fight",
+            "subject": "Common Kingfisher",
+            "description": "Intense fight over a fish caught early morning. Interestingly this was only a short fight and they settled to sharing it very soon.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Friendly Fight",
+            "subject": "Common Kingfisher",
+            "description": "Intense fight over a fish caught early morning. Interestingly this was only a short fight and they settled to sharing it very soon.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Contemplating",
+            "subject": "Common Kingfisher",
+            "description": "Amazing to see the focus with which it is looking at the waters. Combination of focus and natural talent.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Family Gathering",
+            "subject": "Common Kingfisher",
+            "description": "After an earlier quarrel, now we see them togther in a friendly mood.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Keen Observers",
+            "subject": "Common Kingfisher",
+            "description": "Both of them looking at the same time at something they observed nearby. Probably a threat or some disturbance.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Perfect Landing",
+            "subject": "Common Kingfisher",
+            "description": "Kingfisher is known for its fast flight and it is amazing how they stop suddengly and accurately to land on the edge. Amazing talent.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "5.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Keen Observers",
+            "subject": "White Throated Kingfisher",
+            "description": "Early morning time and it is still getting ready to start the day. Looking around at the possibilities for today.",
+            "medium": "Dream World",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "6.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Breakfast Time",
+            "subject": "Common Kingfisher",
+            "description": "Just about to gulp the tasty catch. Amazing how they do it without support of any extra pair of hands. Image a human eating food without using his hands.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "7.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Waiting for the Catch",
+            "subject": "Common Kingfisher",
+            "description": "Patience and perseverence is the name of the game. How patienntly they focus on the water to catch their prey.",
+            "medium": "Dream World",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          },
+          {
+            "filename": "8.jpg",
+            "filepath": "assets/pictures/Kingfisher/",
+            "title": "Captain of the Boat",
+            "subject": "White Throated Kingfisher",
+            "description": "In Varanasi (India), saw it confidently sitting on the moore of the boat as a boat-captain. King of the Fishers is acting as Captain of the boat.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Kingfisher" }
+          }
+        ]
+      },
+      {
+        "category_name": "Sunbird",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Sunbird/",
+            "title": "Morning Dose of Nectar",
+            "subject": "Purple Rumped Sunbird Female",
+            "description": "Sitting on the topmost branch of a tree and totally absorbed in drinking the nectar from the yellow flowers. Great start of the day for her.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Sunbird" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Sunbird/",
+            "title": "Morning Dose of Nectar",
+            "subject": "Purple Rumped Sunbird Female",
+            "description": "Sitting on the topmost branch of a tree and totally absorbed in drinking the nectar from the yellow flowers. Great start of the day for her.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Sunbird" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Sunbird/",
+            "title": "Material Re-Use",
+            "subject": "Purple Rumped Sunbird Female",
+            "description": "Saw this female hopping from her current nest to this old nest multiple times. Later realized it is pulling out material from old nest to re-use in her new nest.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Sunbird" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Sunbird/",
+            "title": "Tearing Down Nest",
+            "subject": "Purple Rumped Sunbird Female",
+            "description": "Another moment from the action where the female was tearing down her old nest to re-use material in new nest. Amazing sense of re-use and efficiency.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Sunbird" }
+          },
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Sunbird/",
+            "title": "Posing for Camera",
+            "subject": "Purple Rumped Sunbird Male",
+            "description": "This cute male was posing on a nice perch and let me approach to take the picture from close. Thank you for the photography friendly pose.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Sunbird" }
+          },
+          {
+            "filename": "5.jpg",
+            "filepath": "assets/pictures/Sunbird/",
+            "title": "Morning Gymnastics",
+            "subject": "Purple Rumped Sunbird Female",
+            "description": "Amazing skill of hanging up-side down and stretching to reach to the item of its desire. Nothing is im-possible for these beautiful skillful small birds.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Sunbird" }
+          }
+        ]
+      },
+      {
+        "category_name": "Parrots",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Parrots/",
+            "title": "Love Is In The Air",
+            "subject": "Rose Ringed Parakeet",
+            "description": "High up in the Sky and enjoying their moment together. This cute pair was not even bothering me taking a snap of their personal moment.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Parrots" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Parrots/",
+            "title": "Love Is In The Air",
+            "subject": "Rose Ringed Parakeet",
+            "description": "High up in the Sky and enjoying their moment together. This cute pair was not even bothering me taking a snap of their personal moment.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Parrots" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Parrots/",
+            "title": "Private Moment",
+            "subject": "Rose Ringed Parakeet",
+            "description": "Another view of this cute pair having their moment up in the sky away from all disturbances.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Parrots" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Parrots/",
+            "title": "Majestic Flight",
+            "subject": "Rose Ringed Parakeet",
+            "description": "In full flight showing off its amazing wing-span and tail feathers. What a beautiful creation of nature.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Parrots" }
+          },
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Parrots/",
+            "title": "Sharing and Caring",
+            "subject": "Rose Ringed Parakeet",
+            "description": "Two buddies sharing from the same pomegranate fruit.  Love and care for each other is the core principle of nature in all creatures.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Parrots" }
+          }
+        ]
+      },
+      {
+        "category_name": "Bulbul",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Bulbul/",
+            "title": "Family Time",
+            "subject": "Red Vented Bulbul",
+            "description": "The pair is enjoying the sunny blue sky in the morning. Looking forward  to a great time rest of the day.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Bulbul" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Bulbul/",
+            "title": "Family Time",
+            "subject": "Red Vented Bulbul",
+            "description": "The pair is enjoying the sunny blue sky in the morning. Looking forward  to a great time rest of the day.0",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Bulbul" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Bulbul/",
+            "title": "Wind on My Face",
+            "subject": "Red Vented Bulbul",
+            "description": "This cute adult was sitting on a branch and braving the strong winds. All the effort to give me a good pose for the photograph.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Bulbul" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Bulbul/",
+            "title": "Contemplating",
+            "subject": "Red Vented Bulbul",
+            "description": "With a construction material that it had freshly collected, it was thinking how to use it in the construction of its magnificient nest. Nature's cute architect at work.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Bulbul" }
+          }
+        ]
+      },
+      {
+        "category_name": "Wagtail",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Wagtail/",
+            "title": "Majestic Walk",
+            "subject": "White Browed Wagtail",
+            "description": "With the background of the colorful boats, it was doing a ramp-walk to give me a striking pose. This was taken at the banks of the river Ganges in Varanasi (India).",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Wagtail" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Wagtail/",
+            "title": "Majestic Walk",
+            "subject": "White Browed Wagtail",
+            "description": "With the background of the colorful boats, it was doing a ramp-walk to give me a striking pose. This was taken at the banks of the river Ganges in Varanasi (India).",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Wagtail" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Wagtail/",
+            "title": "Close Buddies",
+            "subject": "White Browed Wagtail",
+            "description": "Two friends chit-chatting in the early morning sun. Wonder what they were chatting about?",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Wagtail" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Wagtail/",
+            "title": "The Captain",
+            "subject": "White Browed Wagtail",
+            "description": "Another pose on a boat at the bank of river Ganges in Varanasi (India). Looks like the captain of the boat is inspecting the boat.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Wagtail" }
+          }
+        ]
+      },
+      {
+        "category_name": "Ashy Prinia",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Ashy Prinia/",
+            "title": "The Balancing Act",
+            "subject": "Ashy Prinia",
+            "description": "Posing on a perch in the morning sun. It is an amazing skill they poses to balance on moving branches in vertical position.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Ashy Prinia" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Ashy Prinia/",
+            "title": "The Balancing Act",
+            "subject": "Ashy Prinia",
+            "description": "Posing on a perch in the morning sun. It is an amazing skill they poses to balance on moving branches in vertical position.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Ashy Prinia" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Ashy Prinia/",
+            "title": "The Smart One",
+            "subject": "Ashy Prinia",
+            "description": "This cute little one was giving a smart pose for the camera. Glad to capture it from close.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Ashy Prinia" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Ashy Prinia/",
+            "title": "Windy Morning",
+            "subject": "Ashy Prinia",
+            "description": "Sitting on a high branch up in the sky and braving the winds on its face. Fortunately it still managed to hold on to the pose for the camera.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Ashy Prinia" }
+          }
+        ]
+      },
+      {
+        "category_name": "Babbler",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Babbler/",
+            "title": "My Dose of Greens",
+            "subject": "Yellow Billed Babbler",
+            "description": "Daily diet of Green vegetables are good for the health. This one was inspired by it and was showing off its green catch for the breakfast. Eat healthy and Stay Healthy.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Babbler" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Babbler/",
+            "title": "My Dose of Greens",
+            "subject": "Yellow Billed Babbler",
+            "description": "Daily diet of Green vegetables are good for the health. This one was inspired by it and was showing off its green catch for the breakfast. Eat healthy and Stay Healthy.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Babbler" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Babbler/",
+            "title": "Tasty Breakfast",
+            "subject": "Yellow Billed Babbler",
+            "description": "This one had a big juicy catch for breakfast. Another one inspired by the saying - Eat Green to Stay Healthy.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Babbler" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Babbler/",
+            "title": "Curious Look",
+            "subject": "Yellow Billed Babbler",
+            "description": "What are you staring at so curiously? Appears that it was irritated by the disturbing neighbors.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Babbler" }
+          }
+        ]
+      },
+      {
+        "category_name": "Bee Eater",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Bee Eater/",
+            "title": "Smart Looks",
+            "subject": "Asian Green Bee-Eater",
+            "description": "Amazing gift of colors by nature. I wonder who does the regular hair trimming for them? Keeping them always looking so smart and neat and clean.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Bee Eater" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Bee Eater/",
+            "title": "Smart Looks",
+            "subject": "Asian Green Bee-Eater",
+            "description": "Amazing gift of colors by nature. I wonder who does the regular hair trimming for them? Keeping them always looking so smart and neat and clean.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Bee Eater" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Bee Eater/",
+            "title": "Nature's Color Canvas",
+            "subject": "Asian Green Bee-Eater",
+            "description": "Looks like wind has disturbed its neatly styled looks. Time for a grooming session with it's hair styler.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "FBee Eater" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Bee Eater/",
+            "title": "The Predator and Prey",
+            "subject": "Asian Green Bee-Eater",
+            "description": "They as so skilled to catch flying Bees or Flies. Sitting on a high perch, they scan the space around them for flying Bees. Once a Bee is targetted, then swiftly fly to catch it and then come back to the perch to enjoy the catch.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Bee Eater" }
+          }
+        ]
+      },
+      {
+        "category_name": "Cinerious Tit",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Other Birds/",
+            "title": "Beauty Amongst Thorns",
+            "subject": "Cinerious Tit",
+            "description": "Thanks to this cute little one for giving a striking pose sitting on a thorny branch. It is a very active bird and always moving and jumping around different branches.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cinerious Tit" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Other Birds/",
+            "title": "Beauty Amongst Thorns",
+            "subject": "Cinerious Tit",
+            "description": "Thanks to this cute little one for giving a striking pose sitting on a thorny branch. It is a very active bird and always moving and jumping around different branches.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cinerious Tit" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Other Birds/",
+            "title": "The Look",
+            "subject": "Cinerious Tit",
+            "description": "Amazing creation with a beautiful combination of black and white to create such a look. Fortunate to get a pose from this little one.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cinerious Tit" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Other Birds/",
+            "title": "Fun Time",
+            "subject": "Cinerious Tit",
+            "description": "Enough of posing. Now it was back to having fun in its own style. Swinging on a branch up-side down and enjoying the treat. ",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cinerious Tit" }
+          }
+        ]
+      },
+      {
+        "category_name": "Other Birds",
+        "category_logo": "birds.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Other Birds/",
+            "title": "Curious Looker",
+            "subject": "Scaly Breasted Munia",
+            "description": "Curiously looking at me trying to take its picture without prior permission. Thanks for obliging to taking a snap and sharing it.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Other Birds" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Other Birds/",
+            "title": "Curious Looker",
+            "subject": "Scaly Breasted Munia",
+            "description": "Curiously looking at me trying to take its picture without prior permission. Thanks for obliging to taking a snap and sharing it.",
+            "medium": "Mediu of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Other Birds" }
+          },
+          {
+            "filename": "5.jpg",
+            "filepath": "assets/pictures/Other Birds/",
+            "title": "Camouflage At Its Best",
+            "subject": "Juvenile Indian Robin",
+            "description": "Sitting on a perch looking for its prey and while having protection from its predators. It knows where to go and when safely.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Other Birds" }
+          }
+        ]
+      },
+      {
+        "category_name": "Cities",
+        "category_logo": "cities.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Morning on the Ganges",
+            "subject": "Varanasi",
+            "description": "View of the palace taken while having a early morning boat ride on the river Ganges in Varanasi (India). Soft morning glow further magnifies this majestic palace's looks.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Varanasi" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Morning on the Ganges",
+            "subject": "Varanasi",
+            "description": "View of the palace taken while having a early morning boat ride on the river Ganges in Varanasi (India). Soft morning glow further magnifies this majestic palace's looks.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Varanasi" }
+          },
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Morning Glow",
+            "subject": "Varanasi",
+            "description": "Another one taken while having a early morning boat ride on the river Ganges in Varanasi (India). Love the skyline and the lighting on it created in the golden hour.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Varanasi" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Varanasi Palaces",
+            "subject": "Varanasi",
+            "description": "The palace on the banks of river Ganges in Varanasi (India) and shinning in the morning sun. Love the lighting on the palaces and the reflections in the holy water.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Varanasi" }
+          },
+          {
+            "filename": "2-1.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Birds Eye View",
+            "subject": "Varanasi",
+            "description": "Beauty not just at ground level but also from high up. We see the holy river Ganges and colorful boats inviting tourists for a beautiful ride.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Varanasi" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Birds Attack",
+            "subject": "Varanasi",
+            "description": "Every year in the early winter season, Seaguls come here to river bank in Varanasi (India) and nest. Tourists offer food to them during their boat ride. So now Seagul's have become so accustomed that they have become friendly to the tourist boats and circle around them when someone offers them food. Amazing from the perspective of capturing a photograph.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Varanasi" }
+          },
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Misty Morning",
+            "subject": "Vancouver",
+            "description": "Morning fog in the winter season in Vancouver is very popular. Specially on the bay side, it creates such amazing views with the fog shrouded cityscape and reflections in the bay water.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Vancouver" }
+          },
+          {
+            "filename": "5.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Bay Side Reflections",
+            "subject": "Vancouver",
+            "description": "Another view of the fog shrouded cityscape and its reflections in the bay water. The fog cover has reduced little by now as the morning progresses. But still enough to create an amazing view.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Vancouver" }
+          },
+          {
+            "filename": "6.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Majestic Skyline",
+            "subject": "NewYork",
+            "description": "Riding on a boat on the Hudson river in NewYork, could not resist this majestic view of the NewYork skyline. Special interest on the tallest one.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "NewYork" }
+          },
+          {
+            "filename": "7.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "From Rialto Bridge",
+            "subject": "Venice",
+            "description": "On a bright sunny day, the main Canal in Venice with tourists having romatic rides on the world famous Gondolas.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Venice" }
+          },
+          {
+            "filename": "8.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Roman Grandeur",
+            "subject": "Rome",
+            "description": "In the city of grand architectures, everywhere you look around you see majestic buildings. This view was captured from the top of the tourist Bus that operates in Rome. A must ride for all when you are in Rome.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Rome" }
+          },
+          {
+            "filename": "9.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Roman Night",
+            "subject": "Rome",
+            "description": "Not just in the day time, even at night Rome provide majestic view of its grand buildings and streets. I love the way the street lights hanging in the middle of the street.  Just enough ligting to create stunning views.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Rome" }
+          },
+          {
+            "filename": "10.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Florencian Grandeur",
+            "subject": "Florence",
+            "description": "Duomo is one of the most beautiful and visited place in Florence. Looking at the city skyline from the Michaelangelo Point, this one looks amazing specially at Dusk hours.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Florence" }
+          },
+          {
+            "filename": "11.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Winter Beauty",
+            "subject": "Banff",
+            "description": "Although every season has its own beauty and attraction in Banff. But for me, Winter was an amazing experience. A must have for every snow lover.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Banff" }
+          },
+          {
+            "filename": "12.jpg",
+            "filepath": "assets/pictures/Cityscape/",
+            "title": "Heaven on Earth",
+            "subject": "Switzerland",
+            "description": "Taken in Wengen while enroute to Jungfraujoch from Interlaken. The halt at Wengen was absolutely worth every penny for the striking views that it offered.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Cities", "level2": "Switzerland" }
+          }
+        ]
+      },
+      {
+        "category_name": "Flowers",
+        "category_logo": "flora.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Dreamy Beauty",
+            "subject": "Bougainvillea",
+            "description": "We have this flower blooming in our apartment balcony. The pink of the flower with the backdrop of the garden greens is one of my favourite macro shot.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Bougainvillea" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Dreamy Beauty",
+            "subject": "Bougainvillea",
+            "description": "We have this flower blooming in our apartment balcony. The pink of the flower with the backdrop of the garden greens is one of my favourite macro shot.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Bougainvillea" }
+          },
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Simplicity",
+            "subject": "Bougainvillea",
+            "description": "Another macro shot of the flower blooming my apartment balcony garden. The Bougainvillea individual flowers are so simple and yet together the bloom looks magnificient.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Bougainvillea" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Heavenly Beauty",
+            "subject": "Bougainvillea",
+            "description": "A high-key shot of the bloom in my apartment balcony garden. Love the glowy dream like backdrop created by the bright sky.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Bougainvillea" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Pink Beauty",
+            "subject": "Pink Hibiscus",
+            "description": "Hibiscus are perfect flowers because each flower has both male and female reproductive structure. Here a closeup view of the Pistil.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Hibiscus" }
+          },
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Shadows",
+            "subject": "Pink Hibiscus",
+            "description": "Another view of the Hibiscus perfect flower. Love the shadow of the Pistil on the texture of the Petals.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Hibiscus" }
+          },
+          {
+            "filename": "5.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Extreme Closeup",
+            "subject": "Pink Hibiscus",
+            "description": "Closeup view of the Stigma which are the five hairy spots at the top of the Pistil. Stigma is the place where pollen is collected.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Hibiscus" }
+          },
+          {
+            "filename": "6.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Garden Pea Flower",
+            "subject": "Blue Pea Flower",
+            "description": "Amazing texture in the blue petals of the flower. Love the blue with yellow combination on flower and pink, white and green in backdrop in this macro shot",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Pea Flower" }
+          },
+          {
+            "filename": "7.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Visitor in My Garden",
+            "subject": "Butterfly on Flower",
+            "description": "Guest to my apartment garden without any prior invitation. Fortunate to have such guest visit me and Wish they do so every day multiple times.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Butterfly" }
+          },
+          {
+            "filename": "8.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Gems of Nature",
+            "subject": "Red Rose",
+            "description": "Like humans wear ornaments. This is nature's way of providing ornaments. The Red Rose by itself is marvellous. The dew drops on it in early winter morning just take it to another level of beauty.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Rose" }
+          },
+          {
+            "filename": "9.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Bleeding Violet",
+            "subject": "Violet Balloon Flower",
+            "description": "Love the texture on the petals that is glorified by the high key backdrop. Glad to have them in my apartment balcony garden.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Others" }
+          },
+          {
+            "filename": "10.jpg",
+            "filepath": "assets/pictures/Flowers/",
+            "title": "Midnight Blue",
+            "subject": "Morning Glory Flower",
+            "description": "These small blue-white colored flowers create a star like feel in the garden. This low key image of the bloom from my apartment garden is an attempt to capture it.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Flowers", "level2": "Others" }
+          }
+        ]
+      },
+      {
+        "category_name": "Animals",
+        "category_logo": "animals.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Animals/",
+            "title": "Giving The Stare",
+            "subject": "Wild Cat",
+            "description": "Looking straight at me through my lens. Wonder what it was trying to convey. Probably trying to say, one shot is enough and please move-on.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Animals", "level2": "Cat" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "master.jpg",
+            "filepath": "assets/pictures/Animals/",
+            "title": "Giving The Stare",
+            "subject": "Wild Cat",
+            "description": "Looking straight at me through my lens. Wonder what it was trying to convey. Probably trying to say, one shot is enough and please move-on.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Animals", "level2": "Cat" }
+          },
+          {
+            "filename": "1.jpg",
+            "filepath": "assets/pictures/Animals/",
+            "title": "The Innocent Look",
+            "subject": "Monkey",
+            "description": "Saw him in Mysore near Bangalore (India). Just after having a snack, he gave me this innocent look. Probably asking for something more to eat.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Animals", "level2": "Monkey" }
+          },
+          {
+            "filename": "2.jpg",
+            "filepath": "assets/pictures/Animals/",
+            "title": "The Curious One",
+            "subject": "Langoor",
+            "description": "Love its big expressive eyes. Captured this shot at the Bhadra Forest in Karnataka (India) while doing a jungle safari jeep ride. It was sitting high up on a tree and looking around.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Animals", "level2": "Monkey" }
+          },
+          {
+            "filename": "3.jpg",
+            "filepath": "assets/pictures/Animals/",
+            "title": "The Thinker",
+            "subject": "Monkey",
+            "description": "Another one captured at the Bhadra Forest in Karnataka (India). Love how it was looking up as if thinking deeply on some new idea. May be.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Animals", "level2": "Monkey" }
+          },
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Animals/",
+            "title": "Dance in the Rain",
+            "subject": "Indian Peacock",
+            "description": "As it started drizzelling, she started dancing with the beautiful display. Fortunate to see this at the Bhadra Forest in Karnataka (India) while on a safari jeep ride.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Animals", "level2": "Peacock" }
+          }
+        ]
+      },
+      {
+        "category_name": "Reflections",
+        "category_logo": "reflection.jpeg",
+        "category_active": true,
+        "master_picture": [
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Reflections/",
+            "title": "Misty Morning",
+            "subject": "Reflection",
+            "description": "Morning fog in the winter season in Vancouver is very popular. Specially on the bay side, it creates such amazing views with the fog shrouded cityscape and reflections in the bay water.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Reflections" }
+          }
+        ],
+        "other_pictures": [
+          {
+            "filename": "4.jpg",
+            "filepath": "assets/pictures/Reflections/",
+            "title": "Misty Morning",
+            "subject": "Reflection",
+            "description": "Morning fog in the winter season in Vancouver is very popular. Specially on the bay side, it creates such amazing views with the fog shrouded cityscape and reflections in the bay water.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Reflections" }
+          },
+          {
+            "filename": "5.jpg",
+            "filepath": "assets/pictures/Reflections/",
+            "title": "Bay Side Reflections",
+            "subject": "Reflection",
+            "description": "Another view of the fog shrouded cityscape and its reflections in the bay water. The fog cover has reduced little by now as the morning progresses. But still enough to create an amazing view.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Reflections" }
+          },
+          {
+            "filename": "6.jpg",
+            "filepath": "assets/pictures/Reflections/",
+            "title": "Majestic Skyline",
+            "subject": "Reflection",
+            "description": "Riding on a boat on the Hudson river in NewYork, could not resist this majestic view of the NewYork skyline. Special interest on the tallest one.",
+            "medium": "Medium of Picture",
+            "size": "24 x 16 inch",
+            "status": "Available/Sold",
+            "price": 1000.0,
+            "image_active": true,
+            "category": { "level1": "Reflections" }
+          }
+        ]
+      }
+    ]
+  }
+}
