@@ -18,7 +18,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Friendly Fight",
             "subject": "Common Kingfisher",
@@ -33,7 +33,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Friendly Fight",
             "subject": "Common Kingfisher",
@@ -46,7 +46,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Contemplating",
             "subject": "Common Kingfisher",
@@ -59,7 +59,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Family Gathering",
             "subject": "Common Kingfisher",
@@ -72,7 +72,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Keen Observers",
             "subject": "Common Kingfisher",
@@ -85,7 +85,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Perfect Landing",
             "subject": "Common Kingfisher",
@@ -98,7 +98,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "5.jpg",
+            "filename": "5.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Keen Observers",
             "subject": "White Throated Kingfisher",
@@ -111,7 +111,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "6.jpg",
+            "filename": "6.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Breakfast Time",
             "subject": "Common Kingfisher",
@@ -124,7 +124,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "7.jpg",
+            "filename": "7.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Waiting for the Catch",
             "subject": "Common Kingfisher",
@@ -137,7 +137,7 @@
             "category": { "level1": "Kingfisher" }
           },
           {
-            "filename": "8.jpg",
+            "filename": "8.webp",
             "filepath": "assets/pictures/Kingfisher/",
             "title": "Captain of the Boat",
             "subject": "White Throated Kingfisher",
@@ -157,7 +157,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Sunbird/",
             "title": "Morning Dose of Nectar",
             "subject": "Purple Rumped Sunbird Female",
@@ -172,7 +172,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Sunbird/",
             "title": "Morning Dose of Nectar",
             "subject": "Purple Rumped Sunbird Female",
@@ -185,7 +185,7 @@
             "category": { "level1": "Sunbird" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Sunbird/",
             "title": "Material Re-Use",
             "subject": "Purple Rumped Sunbird Female",
@@ -198,7 +198,7 @@
             "category": { "level1": "Sunbird" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Sunbird/",
             "title": "Tearing Down Nest",
             "subject": "Purple Rumped Sunbird Female",
@@ -211,7 +211,7 @@
             "category": { "level1": "Sunbird" }
           },
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Sunbird/",
             "title": "Posing for Camera",
             "subject": "Purple Rumped Sunbird Male",
@@ -224,7 +224,7 @@
             "category": { "level1": "Sunbird" }
           },
           {
-            "filename": "5.jpg",
+            "filename": "5.webp",
             "filepath": "assets/pictures/Sunbird/",
             "title": "Morning Gymnastics",
             "subject": "Purple Rumped Sunbird Female",
@@ -244,7 +244,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Parrots/",
             "title": "Love Is In The Air",
             "subject": "Rose Ringed Parakeet",
@@ -259,7 +259,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Parrots/",
             "title": "Love Is In The Air",
             "subject": "Rose Ringed Parakeet",
@@ -272,7 +272,7 @@
             "category": { "level1": "Parrots" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Parrots/",
             "title": "Private Moment",
             "subject": "Rose Ringed Parakeet",
@@ -285,7 +285,7 @@
             "category": { "level1": "Parrots" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Parrots/",
             "title": "Majestic Flight",
             "subject": "Rose Ringed Parakeet",
@@ -298,7 +298,7 @@
             "category": { "level1": "Parrots" }
           },
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Parrots/",
             "title": "Sharing and Caring",
             "subject": "Rose Ringed Parakeet",
@@ -318,7 +318,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Bulbul/",
             "title": "Family Time",
             "subject": "Red Vented Bulbul",
@@ -333,7 +333,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Bulbul/",
             "title": "Family Time",
             "subject": "Red Vented Bulbul",
@@ -346,7 +346,7 @@
             "category": { "level1": "Bulbul" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Bulbul/",
             "title": "Wind on My Face",
             "subject": "Red Vented Bulbul",
@@ -359,7 +359,7 @@
             "category": { "level1": "Bulbul" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Bulbul/",
             "title": "Contemplating",
             "subject": "Red Vented Bulbul",
@@ -379,7 +379,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Wagtail/",
             "title": "Majestic Walk",
             "subject": "White Browed Wagtail",
@@ -394,7 +394,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Wagtail/",
             "title": "Majestic Walk",
             "subject": "White Browed Wagtail",
@@ -407,7 +407,7 @@
             "category": { "level1": "Wagtail" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Wagtail/",
             "title": "Close Buddies",
             "subject": "White Browed Wagtail",
@@ -420,7 +420,7 @@
             "category": { "level1": "Wagtail" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Wagtail/",
             "title": "The Captain",
             "subject": "White Browed Wagtail",
@@ -440,7 +440,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Ashy Prinia/",
             "title": "The Balancing Act",
             "subject": "Ashy Prinia",
@@ -455,7 +455,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Ashy Prinia/",
             "title": "The Balancing Act",
             "subject": "Ashy Prinia",
@@ -468,7 +468,7 @@
             "category": { "level1": "Ashy Prinia" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Ashy Prinia/",
             "title": "The Smart One",
             "subject": "Ashy Prinia",
@@ -481,7 +481,7 @@
             "category": { "level1": "Ashy Prinia" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Ashy Prinia/",
             "title": "Windy Morning",
             "subject": "Ashy Prinia",
@@ -501,7 +501,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Babbler/",
             "title": "My Dose of Greens",
             "subject": "Yellow Billed Babbler",
@@ -516,7 +516,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Babbler/",
             "title": "My Dose of Greens",
             "subject": "Yellow Billed Babbler",
@@ -529,7 +529,7 @@
             "category": { "level1": "Babbler" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Babbler/",
             "title": "Tasty Breakfast",
             "subject": "Yellow Billed Babbler",
@@ -542,7 +542,7 @@
             "category": { "level1": "Babbler" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Babbler/",
             "title": "Curious Look",
             "subject": "Yellow Billed Babbler",
@@ -562,7 +562,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Bee Eater/",
             "title": "Smart Looks",
             "subject": "Asian Green Bee-Eater",
@@ -577,7 +577,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Bee Eater/",
             "title": "Smart Looks",
             "subject": "Asian Green Bee-Eater",
@@ -590,7 +590,7 @@
             "category": { "level1": "Bee Eater" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Bee Eater/",
             "title": "Nature's Color Canvas",
             "subject": "Asian Green Bee-Eater",
@@ -603,7 +603,7 @@
             "category": { "level1": "FBee Eater" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Bee Eater/",
             "title": "The Predator and Prey",
             "subject": "Asian Green Bee-Eater",
@@ -623,7 +623,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Other Birds/",
             "title": "Beauty Amongst Thorns",
             "subject": "Cinerious Tit",
@@ -638,7 +638,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Other Birds/",
             "title": "Beauty Amongst Thorns",
             "subject": "Cinerious Tit",
@@ -651,7 +651,7 @@
             "category": { "level1": "Cinerious Tit" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Other Birds/",
             "title": "The Look",
             "subject": "Cinerious Tit",
@@ -664,7 +664,7 @@
             "category": { "level1": "Cinerious Tit" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Other Birds/",
             "title": "Fun Time",
             "subject": "Cinerious Tit",
@@ -684,7 +684,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Other Birds/",
             "title": "Curious Looker",
             "subject": "Scaly Breasted Munia",
@@ -699,7 +699,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Other Birds/",
             "title": "Curious Looker",
             "subject": "Scaly Breasted Munia",
@@ -712,7 +712,7 @@
             "category": { "level1": "Other Birds" }
           },
           {
-            "filename": "5.jpg",
+            "filename": "5.webp",
             "filepath": "assets/pictures/Other Birds/",
             "title": "Camouflage At Its Best",
             "subject": "Juvenile Indian Robin",
@@ -732,7 +732,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Morning on the Ganges",
             "subject": "Varanasi",
@@ -747,7 +747,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Morning on the Ganges",
             "subject": "Varanasi",
@@ -760,7 +760,7 @@
             "category": { "level1": "Cities", "level2": "Varanasi" }
           },
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Morning Glow",
             "subject": "Varanasi",
@@ -773,7 +773,7 @@
             "category": { "level1": "Cities", "level2": "Varanasi" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Varanasi Palaces",
             "subject": "Varanasi",
@@ -786,7 +786,7 @@
             "category": { "level1": "Cities", "level2": "Varanasi" }
           },
           {
-            "filename": "2-1.jpg",
+            "filename": "2-1.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Birds Eye View",
             "subject": "Varanasi",
@@ -799,7 +799,7 @@
             "category": { "level1": "Cities", "level2": "Varanasi" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Birds Attack",
             "subject": "Varanasi",
@@ -812,7 +812,7 @@
             "category": { "level1": "Cities", "level2": "Varanasi" }
           },
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Misty Morning",
             "subject": "Vancouver",
@@ -825,7 +825,7 @@
             "category": { "level1": "Cities", "level2": "Vancouver" }
           },
           {
-            "filename": "5.jpg",
+            "filename": "5.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Bay Side Reflections",
             "subject": "Vancouver",
@@ -838,7 +838,7 @@
             "category": { "level1": "Cities", "level2": "Vancouver" }
           },
           {
-            "filename": "6.jpg",
+            "filename": "6.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Majestic Skyline",
             "subject": "NewYork",
@@ -851,7 +851,7 @@
             "category": { "level1": "Cities", "level2": "NewYork" }
           },
           {
-            "filename": "7.jpg",
+            "filename": "7.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "From Rialto Bridge",
             "subject": "Venice",
@@ -864,7 +864,7 @@
             "category": { "level1": "Cities", "level2": "Venice" }
           },
           {
-            "filename": "8.jpg",
+            "filename": "8.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Roman Grandeur",
             "subject": "Rome",
@@ -877,7 +877,7 @@
             "category": { "level1": "Cities", "level2": "Rome" }
           },
           {
-            "filename": "9.jpg",
+            "filename": "9.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Roman Night",
             "subject": "Rome",
@@ -890,7 +890,7 @@
             "category": { "level1": "Cities", "level2": "Rome" }
           },
           {
-            "filename": "10.jpg",
+            "filename": "10.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Florencian Grandeur",
             "subject": "Florence",
@@ -903,7 +903,7 @@
             "category": { "level1": "Cities", "level2": "Florence" }
           },
           {
-            "filename": "11.jpg",
+            "filename": "11.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Winter Beauty",
             "subject": "Banff",
@@ -916,7 +916,7 @@
             "category": { "level1": "Cities", "level2": "Banff" }
           },
           {
-            "filename": "12.jpg",
+            "filename": "12.webp",
             "filepath": "assets/pictures/Cityscape/",
             "title": "Heaven on Earth",
             "subject": "Switzerland",
@@ -936,7 +936,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Dreamy Beauty",
             "subject": "Bougainvillea",
@@ -951,7 +951,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Dreamy Beauty",
             "subject": "Bougainvillea",
@@ -964,7 +964,7 @@
             "category": { "level1": "Flowers", "level2": "Bougainvillea" }
           },
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Simplicity",
             "subject": "Bougainvillea",
@@ -977,7 +977,7 @@
             "category": { "level1": "Flowers", "level2": "Bougainvillea" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Heavenly Beauty",
             "subject": "Bougainvillea",
@@ -990,7 +990,7 @@
             "category": { "level1": "Flowers", "level2": "Bougainvillea" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Pink Beauty",
             "subject": "Pink Hibiscus",
@@ -1003,7 +1003,7 @@
             "category": { "level1": "Flowers", "level2": "Hibiscus" }
           },
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Shadows",
             "subject": "Pink Hibiscus",
@@ -1016,7 +1016,7 @@
             "category": { "level1": "Flowers", "level2": "Hibiscus" }
           },
           {
-            "filename": "5.jpg",
+            "filename": "5.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Extreme Closeup",
             "subject": "Pink Hibiscus",
@@ -1029,7 +1029,7 @@
             "category": { "level1": "Flowers", "level2": "Hibiscus" }
           },
           {
-            "filename": "6.jpg",
+            "filename": "6.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Garden Pea Flower",
             "subject": "Blue Pea Flower",
@@ -1042,7 +1042,7 @@
             "category": { "level1": "Flowers", "level2": "Pea Flower" }
           },
           {
-            "filename": "7.jpg",
+            "filename": "7.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Visitor in My Garden",
             "subject": "Butterfly on Flower",
@@ -1055,7 +1055,7 @@
             "category": { "level1": "Flowers", "level2": "Butterfly" }
           },
           {
-            "filename": "8.jpg",
+            "filename": "8.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Gems of Nature",
             "subject": "Red Rose",
@@ -1068,7 +1068,7 @@
             "category": { "level1": "Flowers", "level2": "Rose" }
           },
           {
-            "filename": "9.jpg",
+            "filename": "9.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Bleeding Violet",
             "subject": "Violet Balloon Flower",
@@ -1081,7 +1081,7 @@
             "category": { "level1": "Flowers", "level2": "Others" }
           },
           {
-            "filename": "10.jpg",
+            "filename": "10.webp",
             "filepath": "assets/pictures/Flowers/",
             "title": "Midnight Blue",
             "subject": "Morning Glory Flower",
@@ -1101,7 +1101,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Animals/",
             "title": "Giving The Stare",
             "subject": "Wild Cat",
@@ -1116,7 +1116,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "master.jpg",
+            "filename": "master.webp",
             "filepath": "assets/pictures/Animals/",
             "title": "Giving The Stare",
             "subject": "Wild Cat",
@@ -1129,7 +1129,7 @@
             "category": { "level1": "Animals", "level2": "Cat" }
           },
           {
-            "filename": "1.jpg",
+            "filename": "1.webp",
             "filepath": "assets/pictures/Animals/",
             "title": "The Innocent Look",
             "subject": "Monkey",
@@ -1142,7 +1142,7 @@
             "category": { "level1": "Animals", "level2": "Monkey" }
           },
           {
-            "filename": "2.jpg",
+            "filename": "2.webp",
             "filepath": "assets/pictures/Animals/",
             "title": "The Curious One",
             "subject": "Langoor",
@@ -1155,7 +1155,7 @@
             "category": { "level1": "Animals", "level2": "Monkey" }
           },
           {
-            "filename": "3.jpg",
+            "filename": "3.webp",
             "filepath": "assets/pictures/Animals/",
             "title": "The Thinker",
             "subject": "Monkey",
@@ -1168,7 +1168,7 @@
             "category": { "level1": "Animals", "level2": "Monkey" }
           },
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Animals/",
             "title": "Dance in the Rain",
             "subject": "Indian Peacock",
@@ -1188,7 +1188,7 @@
         "category_active": true,
         "master_picture": [
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Reflections/",
             "title": "Misty Morning",
             "subject": "Reflection",
@@ -1203,7 +1203,7 @@
         ],
         "other_pictures": [
           {
-            "filename": "4.jpg",
+            "filename": "4.webp",
             "filepath": "assets/pictures/Reflections/",
             "title": "Misty Morning",
             "subject": "Reflection",
@@ -1216,7 +1216,7 @@
             "category": { "level1": "Reflections" }
           },
           {
-            "filename": "5.jpg",
+            "filename": "5.webp",
             "filepath": "assets/pictures/Reflections/",
             "title": "Bay Side Reflections",
             "subject": "Reflection",
@@ -1229,7 +1229,7 @@
             "category": { "level1": "Reflections" }
           },
           {
-            "filename": "6.jpg",
+            "filename": "6.webp",
             "filepath": "assets/pictures/Reflections/",
             "title": "Majestic Skyline",
             "subject": "Reflection",
